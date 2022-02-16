@@ -448,7 +448,7 @@ body {
   display: -ms-grid;
   display: grid;
   place-items: center;
-  background: -webkit-gradient(linear, left top, left bottom, from(#00B894), to(#00B894)), url(/img/pexels-wendy-van-zyl-1112048.jpg) no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(#00B894), to(#00B894)), url(img/pexels-wendy-van-zyl-1112048.jpg) no-repeat;
   background: linear-gradient(#00B894, #00B894), url(/img/pexels-wendy-van-zyl-1112048.jpg) no-repeat;
   background-size: cover;
   background-position: center;
@@ -564,26 +564,26 @@ body {
 
 @-webkit-keyframes background {
   0%, 100% {
-    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/back-md.jpg) no-repeat;
+    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/back-md.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
     opacity: 1;
   }
   20% {
-    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/contact-bg.jpg) no-repeat;
+    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/contact-bg.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
   }
   40% {
-    background: linear-gradient(76.34deg, red 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/back2.jpg) no-repeat;
+    background: linear-gradient(76.34deg, red 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/back2.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
   }
   60% {
-    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/back3.jpg) no-repeat;
+    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/back3.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
@@ -598,25 +598,25 @@ body {
 
 @keyframes background {
   0%, 100% {
-    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/back-md.jpg) no-repeat;
+    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/back-md.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
   }
   20% {
-    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/contact-bg.jpg) no-repeat;
+    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/contact-bg.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
   }
   40% {
-    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/back2.jpg) no-repeat;
+    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/back2.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
   }
   60% {
-    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(/img/back3.jpg) no-repeat;
+    background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(img/back3.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
